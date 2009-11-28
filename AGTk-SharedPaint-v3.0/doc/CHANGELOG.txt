@@ -1,0 +1,15 @@
+2009-05-27  William A. Romero R.  <wil-rome@uniandes.edu.co>
+    
+    - screens/sharedpaint_start.svg: New design for intro screen.
+    - screens/sharedpaint_about.svg: New design for about screen.
+
+    - screens/README.txt, doc/DEVELOPER_EN.txt, doc/README_EN.txt,
+      doc/README_ES.txt: Documentation.
+
+    - build_agpkg3.sh: Script to build the SharedPaint-vX.X.agpkg3 file.
+
+2009-05-25  Henry Caballero  <hh.caballero921@uniandes.edu.co>
+
+    - src/Controller.py, src/Exceptions.py, src/Messaging.py,
+      src/Model.py, src/SharedPaint.app, src/SharedPaint.py,
+      src/View.py: Basic MVC structure.

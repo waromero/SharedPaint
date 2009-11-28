@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:ns="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="400"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   version="1.0"
+   sodipodi:docname="sharedpaint_about.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/knoppix/Desktop/IMG_2.png"
+   inkscape:export-xdpi="92"
+   inkscape:export-ydpi="92"
+   sodipodi:docbase="/media/sda1/Actualizar/AGTk-SharedPaint-v3.0/screens">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective3245"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3304"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.9233304"
+     inkscape:cx="278.4443"
+     inkscape:cy="200"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer5"
+     showgrid="false"
+     width="500px"
+     inkscape:showpageshadow="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1272"
+     inkscape:window-height="720"
+     inkscape:window-x="4"
+     inkscape:window-y="29">
+    <sodipodi:guide
+       orientation="1,0"
+       position="249.87456,266.44449"
+       id="guide3159" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="200.82756,200.16476"
+       id="guide3161" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="137.19903,271.74686"
+       id="guide3256" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="361.22449,151.78057"
+       id="guide3258" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="233.30462,300.24714"
+       id="guide3325" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="46.312911,280.13663"
+       id="guide3415" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <ns:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </ns:Work>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="frame"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#e6e6e6;stroke-width:1.5;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99497483"
+       id="rect2387"
+       width="448.79343"
+       height="336.7934"
+       x="25.929173"
+       y="31.242588" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="bitmaps"
+     sodipodi:insensitive="true">
+    <image
+       y="329.95294"
+       x="28.43074"
+       id="image3247"
+       height="35.155186"
+       width="112.11181"
+       sodipodi:absref="./uniandes.png"
+       xlink:href="./uniandes.png" />
+    <image
+       y="320.63278"
+       x="390.50769"
+       id="image3306"
+       height="45.84903"
+       width="82.317451"
+       sodipodi:absref="./imagine-en.png"
+       xlink:href="./imagine-en.png" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     style="display:inline"
+     inkscape:label="SharedPaint"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-size:39.8975296px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Lucida Sans Typewriter"
+       x="153.80231"
+       y="79.913185"
+       id="text3321"><tspan
+         sodipodi:role="line"
+         id="tspan3323"
+         x="153.80231"
+         y="79.913185"
+         style="font-size:34.91033936px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Tahoma">Paint</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:39.8975296px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Lucida Sans Typewriter"
+       x="153.1413"
+       y="79.376556"
+       id="text3331"><tspan
+         sodipodi:role="line"
+         id="tspan3333"
+         x="153.1413"
+         y="79.376556"
+         style="font-size:34.91033936px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Tahoma">Paint</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:39.8975296px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Lucida Sans Typewriter"
+       x="152.55901"
+       y="78.860237"
+       id="text2315"><tspan
+         sodipodi:role="line"
+         id="tspan2317"
+         x="152.55901"
+         y="78.860237"
+         style="font-size:34.91033936px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000080;font-family:Tahoma">Paint</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:39.8975296px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Lucida Sans Typewriter"
+       x="33.903744"
+       y="79.87886"
+       id="text3317"><tspan
+         sodipodi:role="line"
+         id="tspan3319"
+         x="33.903744"
+         y="79.87886"
+         style="font-size:34.91033936px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Tahoma">Shared</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:39.8975296px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Lucida Sans Typewriter"
+       x="33.321564"
+       y="79.05014"
+       id="text3327"><tspan
+         sodipodi:role="line"
+         id="tspan3329"
+         x="33.321564"
+         y="79.05014"
+         style="font-size:34.91033936px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Tahoma">Shared</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:39.8975296px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Lucida Sans Typewriter"
+       x="32.898567"
+       y="78.439186"
+       id="text2319"><tspan
+         sodipodi:role="line"
+         id="tspan2321"
+         x="32.898567"
+         y="78.439186"
+         style="font-size:34.91033936px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff0000;font-family:Tahoma">Shared</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="text"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Lucida Sans Typewriter"
+       x="55.515823"
+       y="93.484406"
+       id="text3348"><tspan
+         sodipodi:role="line"
+         id="tspan3350"
+         x="55.515823"
+         y="93.484406"
+         style="font-size:12px;fill:#999999">AGTk Shared Application</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Lucida Sans Typewriter"
+       x="103.22478"
+       y="107.17877"
+       id="text3352"><tspan
+         sodipodi:role="line"
+         x="103.22478"
+         y="107.17877"
+         id="tspan3356"
+         style="font-size:10px">Version 3.0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Lucida Sans Typewriter"
+       x="147.855"
+       y="154.59862"
+       id="text3437"><tspan
+         sodipodi:role="line"
+         x="147.855"
+         y="154.59862"
+         id="tspan3439"
+         style="font-size:14px;fill:#000080">Developers</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Lucida Sans Typewriter"
+       x="167.27562"
+       y="206.86508"
+       id="text3441"><tspan
+         sodipodi:role="line"
+         x="167.27562"
+         y="206.86508"
+         id="tspan3443"
+         style="font-size:12px;fill:#333333">William A. Romero R.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Lucida Sans Typewriter"
+       x="165.97176"
+       y="176.26353"
+       id="text3445"><tspan
+         sodipodi:role="line"
+         x="165.97176"
+         y="176.26353"
+         id="tspan3447"
+         style="font-size:12px;fill:#333333">Henry Caballero</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Lucida Sans Typewriter"
+       x="201.13914"
+       y="217.06064"
+       id="text3449"><tspan
+         sodipodi:role="line"
+         x="201.13914"
+         y="217.06064"
+         id="tspan3451"
+         style="font-size:10px;fill:#808080">wil-rome@uniandes.edu.co</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Lucida Sans Typewriter"
+       x="200.15941"
+       y="188.96529"
+       id="text3453"><tspan
+         sodipodi:role="line"
+         x="200.15941"
+         y="188.96529"
+         id="tspan3455"
+         style="font-size:10px;fill:#808080">hh.caballero921@uniandes.edu.co</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Lucida Sans Typewriter"
+       x="148.2854"
+       y="270.19751"
+       id="text3457"><tspan
+         sodipodi:role="line"
+         x="148.2854"
+         y="270.19751"
+         id="tspan3459"
+         style="font-size:14px;fill:#000080">Website</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Lucida Sans Typewriter"
+       x="166.18446"
+       y="285.20731"
+       id="text3461"><tspan
+         sodipodi:role="line"
+         x="166.18446"
+         y="285.20731"
+         id="tspan3463"
+         style="font-size:10px;fill:#333333">http://www.accessgrid.org/project/SharedPaint</tspan></text>
+  </g>
+</svg>

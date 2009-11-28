@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- AUTOR: William A. Romero R. ________________________________________________________________ -->
+<project name="AGTk-SharedPaint" default="usage" basedir=".">
+
+<description>
+ANT-Building script for 'AGTk-SharedPaint-v3.0.agpkg' file.
+Further information see /doc/README.txt
+
+Construye el paquete 'AGTk-SharedPaint-v3.0.agpkg' 
+Para informacion mas detallada consulte /doc/README.txt
+</description>
+<!-- INIT ________________________________________________________________ -->
+	<target name="init">
+		<property environment="env"/>
+		<property file="build.properties"/>
+	</target>
+<!-- USAGE _______________________________________________________________ -->
+<target name="usage" depends="init">
+	<echo message="-----------------------------------------"/>
+	<echo message="** ${project.name} build file **"/>
+	<echo message="   Version ${project.version}"/>
+	<echo message="-----------------------------------------"/>
+	<echo message=""/>
+	<echo message="Options :"/>
+	<echo message="clean         - Clean /package and /docs/API"/>
+	<echo message="build_agpkg   - Build the Access Grid Package"/>
+</target>
+<!-- CLEAN _______________________________________________________________ -->
+	<target name="clean" depends="init">
+		<delete dir="${build}"/>
+		<delete dir="${documents}"/>
+	</target>
+<!-- Project agpkg file (Access Grid Package)____________________________  -->
+	<target name="build_agpkg" depends="clean">		
+		<mkdir dir="${build}"/>	
+		<zip destfile="${build}/${project.name}-v${project.version}.agpkg3" basedir="${src}"/>
+	</target>
+</project>
